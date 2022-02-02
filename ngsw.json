@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643822007619,
+  "index": "/lottiefilesExercise/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/lottiefilesExercise/favicon.ico",
+        "/lottiefilesExercise/index.html",
+        "/lottiefilesExercise/main.e70e98945cfa4734.js",
+        "/lottiefilesExercise/manifest.webmanifest",
+        "/lottiefilesExercise/polyfills.c880768dfd5235f7.js",
+        "/lottiefilesExercise/runtime.1baa4eb90b91c8f3.js",
+        "/lottiefilesExercise/styles.10a3678fc5e4410f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/lottiefilesExercise/assets/74268-cute-tiger.json",
+        "/lottiefilesExercise/assets/icons/icon-128x128.png",
+        "/lottiefilesExercise/assets/icons/icon-144x144.png",
+        "/lottiefilesExercise/assets/icons/icon-152x152.png",
+        "/lottiefilesExercise/assets/icons/icon-192x192.png",
+        "/lottiefilesExercise/assets/icons/icon-384x384.png",
+        "/lottiefilesExercise/assets/icons/icon-512x512.png",
+        "/lottiefilesExercise/assets/icons/icon-72x72.png",
+        "/lottiefilesExercise/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/lottiefilesExercise/assets/74268-cute-tiger.json": "cb6a60a20266c40131cb52fa2243c66a13710f94",
+    "/lottiefilesExercise/assets/icons/icon-128x128.png": "ad44624de786ff90724ad175301c6e24379a66fc",
+    "/lottiefilesExercise/assets/icons/icon-144x144.png": "452ffe826c08246064a2d0b14f962ce27dcf2ceb",
+    "/lottiefilesExercise/assets/icons/icon-152x152.png": "6956474e6de69d5c85d46f7092c188afeed07577",
+    "/lottiefilesExercise/assets/icons/icon-192x192.png": "55a96028ea5f1d7eb2d3bac4ad95c0901477391c",
+    "/lottiefilesExercise/assets/icons/icon-384x384.png": "399f8a05ab4526e15a22a7e9ebe0dbfc35f60570",
+    "/lottiefilesExercise/assets/icons/icon-512x512.png": "67a1785f2f3c0a4a255b12a4276116efd0ce516e",
+    "/lottiefilesExercise/assets/icons/icon-72x72.png": "f4ccc4f6d75145a4923f6c3eff92127d84f85afe",
+    "/lottiefilesExercise/assets/icons/icon-96x96.png": "cfb7b7918b54fd422eb87a0856d9c79e27a86674",
+    "/lottiefilesExercise/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/lottiefilesExercise/index.html": "90c1af4ef59a532bf27bb959a12b38e60eef2dc8",
+    "/lottiefilesExercise/main.e70e98945cfa4734.js": "2b92ad5a61fc03bb128b2e3c8268b023abbbdd4e",
+    "/lottiefilesExercise/manifest.webmanifest": "8c9666cc3a3933c5b80528fcec25dee45e4f8240",
+    "/lottiefilesExercise/polyfills.c880768dfd5235f7.js": "52f656dfed4578e8ea9be451870b4e6034fdd6fd",
+    "/lottiefilesExercise/runtime.1baa4eb90b91c8f3.js": "947c5e6419f2f4585845bf72f92a7a7fc038f9dd",
+    "/lottiefilesExercise/styles.10a3678fc5e4410f.css": "04ef123665db54ae19aa9038b8f884035e977c87"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
